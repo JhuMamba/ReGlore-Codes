@@ -1,0 +1,17 @@
+{
+    "name": "ReGlore.Mob",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cba435d50a7349e4d8788528fc83154c",
+        "GUID:205d9ba6dd1302940a04f23c9203603b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
